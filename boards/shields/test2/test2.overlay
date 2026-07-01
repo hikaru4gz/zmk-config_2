@@ -3,8 +3,8 @@
 // instructions.
 
 #include <dt-bindings/zmk/matrix_transform.h>
-#include "my_keyboard-layouts.dtsi"
 #include "test2-layouts.dtsi"
+
 
 / {
     chosen {
